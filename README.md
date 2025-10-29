@@ -65,6 +65,7 @@ Contribute to open-source projects on Base 🌉
 3️⃣ Kliknij **Commit changes**
 
 ---
+# Update: My first commit to GitHub 🚀
 
 ## ✅ GOTOWE!
 
