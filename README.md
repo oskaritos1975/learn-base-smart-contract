@@ -26,5 +26,45 @@ contract AddressBook {
 
     function removeName() public {
         delete names[msg.sender];
-    }
-}
+
+🌐 Deployed on Base Testnet
+
+Network: Base Sepolia
+
+Verified via: Base Learn Consul Exercise
+
+Wallet: MetaMask
+
+🧩 My Learning Notes
+
+Learned how to use mapping in Solidity
+
+Practiced error handling and gas optimization
+
+Connected MetaMask with Base network
+
+Deployed and verified contracts using Remix
+
+💫 Next Steps
+
+Build a frontend with Gradio or Next.js
+
+Deploy to Base Mainnet using forge or hardhat
+
+Contribute to open-source projects on Base 🌉
+
+
+6️⃣ Kliknij **Commit changes**
+
+---
+
+## 🧩 KROK 4 — (Opcjonalnie) Dodaj plik kontraktu
+
+1️⃣ Kliknij **Add file → Upload files**  
+2️⃣ Wgraj plik `AddressBook.sol` z Twojego komputera  
+3️⃣ Kliknij **Commit changes**
+
+---
+
+## ✅ GOTOWE!
+
