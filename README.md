@@ -53,10 +53,11 @@ Deploy to Base Mainnet using forge or hardhat
 
 Contribute to open-source projects on Base 🌉
 
+---
 
 6️⃣ Kliknij **Commit changes**
 
----
+
 
 ## 🧩 KROK 4 — (Opcjonalnie) Dodaj plik kontraktu
 
